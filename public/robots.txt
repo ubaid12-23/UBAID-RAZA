@@ -1,0 +1,6 @@
+# FORMA Furniture robots.txt
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://formafurniture.com/sitemap.xml

@@ -1,0 +1,6 @@
+{
+  "name": "RAZA INTERIOR — Modern Furniture & Living",
+  "description": "Discover thoughtfully designed modern furniture, architectural lighting, and interior pieces crafted by Raza Interior to bring timeless comfort and character into your home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
